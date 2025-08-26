@@ -24,6 +24,7 @@ str1 and str2 consist of English uppercase letters.
 
 SOLUTION: 1
 */
+
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
 
@@ -70,7 +71,7 @@ class Solution {
     }
 }
 
-
+//COMPLEXITY TIME:O(n2)   SPACE:O(1)
 
 
 
