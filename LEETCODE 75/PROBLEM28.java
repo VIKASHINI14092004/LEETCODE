@@ -18,7 +18,6 @@ Suppose every senator is smart enough and will play the best strategy for his ow
 Predict which party will finally announce the victory and change the Dota2 game. 
 The output should be "Radiant" or "Dire".
 
- 
 
 Example 1:
 Input: senate = "RD"
